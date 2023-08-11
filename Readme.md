@@ -17,6 +17,9 @@ It's a responsive web application built using React, Tailwind CSS to help manage
 
 ![Dashboard](./images/assessment-dashboard-lg.png)
 
+![Dashboard](./images/assessment-dashboard-lg-2.png)
+
+
 <br>
 
 ### Mobile - 375 x 678
